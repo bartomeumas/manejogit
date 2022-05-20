@@ -1,6 +1,6 @@
 # Manejo de git
 
-### Elaborado por Bartomeu Mas Castillo
+### Elaborado por Bartomeu Mas
 
 #### El repositorio de esta tarea se encuentra en [GitHub](https://github.com/bartomeumas/manejogit).
 
